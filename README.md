@@ -1,5 +1,5 @@
-Project page for the article titled: 
-# Machine-learning-based ensemble regression for vehicle-to-vehicle distance estimation using a toe-in style stereo camera
+# Project page for the article titled: 
+"Machine-learning-based ensemble regression for vehicle-to-vehicle distance estimation using a toe-in style stereo camera"
 
 # Bibliographic information:
 Volume/Issue: 240C,
